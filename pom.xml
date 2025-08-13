@@ -25,13 +25,7 @@
   <properties>
     <java.version>23</java.version>
     <spring-cloud.version>2025.0.0</spring-cloud.version>
-    <!--
-    <dockerPassword>${dockerPassword}</dockerPassword>
-    -->
-    <!--
-    <dockerPassword>dckr_pat_DGNzGajX8aYFx7u6w8O8PMjJy_Q</dockerPassword>
-    -->
-    <dockerPassword>Docker@123</dockerPassword>
+    <dockerPassword><<Put docker password>></dockerPassword>
   </properties>
 
   <dependencyManagement>
